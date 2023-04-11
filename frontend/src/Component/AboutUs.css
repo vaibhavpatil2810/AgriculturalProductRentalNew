@@ -1,0 +1,27 @@
+  .about-us-title {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .about-us-content {
+    font-size: 18px;
+    line-height: 1.5;
+  }
+
+  .foot-style{
+    color: #000;
+    font-weight: 500;
+    font-family: sans-serif;
+    font-size: 15px;
+  }
+  
+  .about-us{
+    width: 800px;
+    padding: 20px;
+    color: black;
+    background-color: rgba(255, 255, 255, 0.700);
+    height:max-content; 
+    border-radius:10px;
+    box-shadow: 5px 5px 5px rgba(97, 43, 43, 0.2);
+  }

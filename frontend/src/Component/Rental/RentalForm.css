@@ -1,0 +1,56 @@
+.rental-form-container {
+  border: 1px solid #ccc;
+  padding: 30px;
+  background-color: #f9f9f9;
+  text-align: center;
+}
+
+.rental-form-container h2 {
+  color: #333;
+}
+
+.rental-form-container form {
+  display: -ms-inline-grid;
+  text-align: left;
+}
+
+.rental-form-container label {
+  display: block;
+  margin-bottom: 5px;
+  font-weight: bold;
+}
+
+.rental-form-container input {
+  padding: 5px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.rental-form-container button[type="submit"] {
+  padding: 10px 20px;
+  background-color: #4CAF50;
+  color: #fff;
+  border: none;
+  border-radius: 3px;
+  cursor: pointer;
+}
+.rental-form-container {
+  border: 1px solid #ccc;
+  padding: 200px;
+  background-image: url("https://c1.wallpaperflare.com/preview/165/4/945/agriculture-bird-s-eye-cereal-combine.jpg");
+  background-size: cover;
+  text-align: center;
+}
+.rental-form {
+  /* background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcduYUAnGQgPvHvy2VxQpRq2iudkZVOBPIuA&usqp=CAU"); */
+  background-color: #bb9292;
+  border: 1px solid #410909;
+  padding: 20px;
+  margin: 20px auto;
+  max-width: 500px;
+}
+
+/* Rest of the styles... */

@@ -1,0 +1,23 @@
+
+  .dropdown-menu {
+    background-color: #fff;
+    border: none;
+    border-radius: 0;
+    box-shadow: 0 1px 5px rgba(0, 0, 0, 0.2);
+    padding: 0;
+    width: 200px;
+  }
+  
+  .dropdown-item {
+    color: #333;
+    font-size: 16px;
+    font-weight: 400;
+    padding: 10px 20px;
+    text-align: left;
+  }
+  
+  .dropdown-item:hover {
+    background-color: #f8f9fa;
+  }
+  
+  
